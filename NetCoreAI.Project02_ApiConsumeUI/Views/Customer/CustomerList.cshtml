@@ -1,0 +1,39 @@
+﻿@model List<ResultCustomerDto>
+
+
+@{
+    Layout = null;
+}
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+
+<!DOCTYPE html>
+
+<div class="container">
+    <br/><br/>
+    <table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Müşteri Adı Soyadı</th>
+        <th>Bakiye</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var x in Model)
+        {
+            <tr>
+                <td>@x.CustomerId</td>
+                <td>@x.CustomerName @x.CustomerSurname</td>
+                <td>@x.CustomerBalance</td>
+                <td><a href="/Customer/DeleteCustomer/@x.CustomerId" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Customer/UpdateCustomer/@x.CustomerId" class="btn btn-success">Güncelle</a></td>
+
+            </tr>
+        }
+</table>
+
+    <a href="/Customer/CreateCustomer/" class="btn btn-primary">Yeni Müşteri Girişi</a>
+
+</div>
