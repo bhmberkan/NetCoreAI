@@ -9,6 +9,7 @@ class program
 {
     static async Task Main(string[] args)
     {
+        // apikey masaüstünde buraya atınca gite atmıyor patlıyor
         var apiKey = "buraya key gelecek";
         Console.WriteLine("Lüften sorunuzu yazınız : (örnek : 'Merhaba bügün hava istanbulda kaç derece')");
 
