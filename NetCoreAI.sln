@@ -33,6 +33,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project14_Article
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project15_WebScrapingWithOpenAI", "NetCoreAI.Project15_WebScrapingWithOpenAI\NetCoreAI.Project15_WebScrapingWithOpenAI.csproj", "{531DB8D6-3E9F-45C5-82C1-68F8F625B80B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project16_PdfAnalyzeWithAI", "NetCoreAI.Project16_PdfAnalyzeWithAI\NetCoreAI.Project16_PdfAnalyzeWithAI.csproj", "{2B5CA403-5A71-4C40-9087-B6B7D3C4B585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project17_GoogleCloudVisionImageDetection", "NetCoreAI.Project17_GoogleCloudVisionImageDetection\NetCoreAI.Project17_GoogleCloudVisionImageDetection.csproj", "{1F18ACA4-296B-474D-945E-AC17B2EC4411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project18_OpenAINewsSummarizeWithRss", "NetCoreAI.Project18_OpenAINewsSummarizeWithRss\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.csproj", "{70E85637-5152-40C9-A9E8-2E6261B93188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project19_CreateStoryWithAI", "NetCoreAI.Project19_CreateStoryWithAI\NetCoreAI.Project19_CreateStoryWithAI.csproj", "{21B4263F-E021-46AE-A310-D4276997E101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +107,22 @@ Global
 		{531DB8D6-3E9F-45C5-82C1-68F8F625B80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{531DB8D6-3E9F-45C5-82C1-68F8F625B80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{531DB8D6-3E9F-45C5-82C1-68F8F625B80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5CA403-5A71-4C40-9087-B6B7D3C4B585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5CA403-5A71-4C40-9087-B6B7D3C4B585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5CA403-5A71-4C40-9087-B6B7D3C4B585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5CA403-5A71-4C40-9087-B6B7D3C4B585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F18ACA4-296B-474D-945E-AC17B2EC4411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F18ACA4-296B-474D-945E-AC17B2EC4411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F18ACA4-296B-474D-945E-AC17B2EC4411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F18ACA4-296B-474D-945E-AC17B2EC4411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E85637-5152-40C9-A9E8-2E6261B93188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E85637-5152-40C9-A9E8-2E6261B93188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E85637-5152-40C9-A9E8-2E6261B93188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E85637-5152-40C9-A9E8-2E6261B93188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B4263F-E021-46AE-A310-D4276997E101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B4263F-E021-46AE-A310-D4276997E101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B4263F-E021-46AE-A310-D4276997E101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B4263F-E021-46AE-A310-D4276997E101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
