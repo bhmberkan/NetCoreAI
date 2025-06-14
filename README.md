@@ -53,10 +53,13 @@ NetCoreAI/
 <br/>
 Recipe Suggestion
 <br/>
+
 ![AITarifÖner](https://github.com/user-attachments/assets/c0d10067-a63a-411d-b73a-92559e3cfcbb)
 <br/>
+
 Rapid Api Top 100 films
 <br/>
+
 ![image](https://github.com/user-attachments/assets/49fcb5c3-d0c7-4c3b-a047-16443f52931a)
 <br/>
 AI Chat
