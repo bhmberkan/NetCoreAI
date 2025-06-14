@@ -76,6 +76,7 @@ DallE Image Generation
 <br/>
 Tesseract Ocr
 <br/>
+
 ![image](https://github.com/user-attachments/assets/d22c1085-3639-4299-adbc-3590eae1b9eb)
 <br/>
 
@@ -83,10 +84,12 @@ Tesseract Ocr
 Google Cloud Vision ile Resim üzerindeki Yazıların okunması.
 
 <br/>
+
 ![image](https://github.com/user-attachments/assets/10e711e1-0128-4c85-8889-d9daf80eeb07)
 <br/>
 Open AI Translate
 <br/>
+
 ![image](https://github.com/user-attachments/assets/cb82d952-cfa8-43a9-9cb5-ff7fb5ecfa7d)
 <br/>
 Text To Speech
