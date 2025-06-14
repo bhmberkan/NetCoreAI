@@ -82,13 +82,13 @@ Tesseract Ocr
 
 <br/>
 Google Cloud Vision ile Resim üzerindeki Yazıların okunması.
-
 <br/>
 
 ![image](https://github.com/user-attachments/assets/10e711e1-0128-4c85-8889-d9daf80eeb07)
 <br/>
 Open AI Translate
 <br/>
+
 ![image](https://github.com/user-attachments/assets/465bcb2b-118b-4653-9edf-2ba47e0eee3f)
 
 <br/>
@@ -98,12 +98,15 @@ Text To Speech
 <br/>
 ![image](https://github.com/user-attachments/assets/0843c4f0-d14c-4231-9c85-c221347f4ab4)
 <br/>
+
 ![image](https://github.com/user-attachments/assets/b30be404-c661-4581-84e2-37cb20b93347)
 <br/>
+
 ![image](https://github.com/user-attachments/assets/62c08ee3-1b7f-4078-920d-f877306eb352)
 <br/>
 Sentiment With Degree AI App
 <br/>
+
 ![image](https://github.com/user-attachments/assets/8507528b-7e4d-4c54-a8b5-0e66ff0d8667)
 <br/>
 
@@ -111,6 +114,7 @@ Sentiment With Degree AI App
 <br/>
 Article Summarize AI
 <br/>
+
 ![image](https://github.com/user-attachments/assets/f07e00ed-6a33-47d8-9442-fb62cbaac5c7)
 <br/>
 ![image](https://github.com/user-attachments/assets/41007e8c-1204-4c9b-a75f-ccd658e03fa4)
@@ -128,7 +132,9 @@ Pdf Analyze With AI
 
 ![image](https://github.com/user-attachments/assets/95bbee1a-00a9-48bc-8c1c-98a63d2ff532)
 <br/>
-Google Cloud Vision Image Detection<br/>
+Google Cloud Vision Image Detection
+<br/>
+
 ![image](https://github.com/user-attachments/assets/a73149a2-263e-404a-825d-05d19354b5fa)
 <br/>
 Open AI News Summarize With Rss<br/>
