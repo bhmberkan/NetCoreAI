@@ -52,7 +52,8 @@ NetCoreAI/
 Proje Görselleri Eklenecek.
 
 <br/>
-## 🛠 Kurulum
+
+## **🛠 Kurulum**
 
 1. Reponun klonlanması:
 
