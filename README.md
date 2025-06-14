@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a01fb38b-fcc6-4c8b-a6d3-3543f16d8f27)# 🤖 NetCoreAI
+# 🤖 NetCoreAI
 
 Bu proje, .NET Core platformunda OpenAI gibi harici yapay zeka servislerini kullanarak geliştirilen bir yapay zeka entegrasyon projesidir. Amaç, güçlü dil modellerini (LLM) .NET ortamında API aracılığıyla kullanmak ve pratik senaryolarda yapay zeka çözümleri üretmektir.
 
