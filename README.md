@@ -89,12 +89,12 @@ Google Cloud Vision ile Resim üzerindeki Yazıların okunması.
 <br/>
 Open AI Translate
 <br/>
+![image](https://github.com/user-attachments/assets/465bcb2b-118b-4653-9edf-2ba47e0eee3f)
 
-![image](https://github.com/user-attachments/assets/cb82d952-cfa8-43a9-9cb5-ff7fb5ecfa7d)
 <br/>
 Text To Speech
 <br/>
-![image](https://github.com/user-attachments/assets/465bcb2b-118b-4653-9edf-2ba47e0eee3f)
+
 <br/>
 ![image](https://github.com/user-attachments/assets/0843c4f0-d14c-4231-9c85-c221347f4ab4)
 <br/>
